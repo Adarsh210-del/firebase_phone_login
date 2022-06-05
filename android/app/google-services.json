@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364987282174",
+    "project_id": "hyginiee-phone-login",
+    "storage_bucket": "hyginiee-phone-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364987282174:android:e1222cf6a864edfa3dabaf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_phone_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364987282174-tinml8vs0avtmksktknokf18u7nlqg4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_phone_login",
+            "certificate_hash": "265497fb15a3395071a8a646d4ca1de410728544"
+          }
+        },
+        {
+          "client_id": "364987282174-d9vgsmjg60uf4kj8ng8ifkhhjpeo74q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNrendePJVSfJX_hxy9yjdoJ2ObiBwmIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364987282174-d9vgsmjg60uf4kj8ng8ifkhhjpeo74q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
